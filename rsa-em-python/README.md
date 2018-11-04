@@ -10,7 +10,7 @@ O RSA está fortemente ligado à Teoria dos Números, sendo baseado em pilares c
 
 *	Obter dois números primos p e q; (Utilizei o teste Miller-Rabin. É um teste probabilístico para saber se  um número n é primo de maneira eficiente).
 
-*	Calcular n = pq;
+*	Calcular n = p*q;
 
 *	Calcular phi(n) = (p-1)(q-1); (Função totiente de Euler)
 
